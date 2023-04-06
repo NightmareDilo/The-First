@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{font-family: 'Titillium Web', sans-serif;
+}
+.container{
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+
+
+.header-inner{
+    display: flex;
+    align-items: center;
+    justify-content:space-between ;
+}
+
+.link {
+    padding: 22px;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 16px;
+    letter-spacing: 0.25px;
+}
+
+
+
+
+
+
+
+.map1{width: 100%;
+padding-top: 150px;
+}
+
+.txtmap11{
+    font-weight: 600;
+font-size: 48px;
+line-height: 58px;
+}
+
+.txtmap12{
+    font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+}
+
+.map1-inner{
+    display: flex;
+    align-items: center;
+  
+}
+
+.map2-inner {
+    display: flex;
+    align-items: center;
+}
+
+.txtmap21{
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.txtmap22{
+    font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+}
+
+.link6969{
+color: #1D6FF3;
+} 
+.txtsmap2{
+    flex-direction: column;
+    padding: 10px;
+}
+
+.map3-inner {
+    display: flex;
+    align-items: center;
+}
+
+.txtmap31{
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.txtmap32{
+    font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+}
+
+
+
+
+.pppp{
+    font-size: 24px;
+line-height: 31px;
+font-weight: 600;
+/* or 130% */
+
+letter-spacing: 0.25px;
+}
+
+.cards1-inner{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card{
+    max-width: 300px;
+}
+
+
+.cards2{
+    padding-top: 200px;
+}
+
+.poiskov{
+    padding-top:200px;
+    padding-bottom: 200px;
+
+}
+
+.txtpoisk1{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    padding: 20px;
+}
+
+
+.txtpoisk2{
+    font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+}
+
+.poiskov-inner{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pskvk{
+    width: 300px;
+    height: 50px;
+}
+
+.knopka{
+    color: white;
+    width:120px ;
+    height:50px ;
+    background-color: #1D6FF3;
+}
+
+.txtcards1{
+    max-width: 200px;
+    width: 100%;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.txtcards2{
+    max-width: 200px;
+    width: 100%;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.txtcards3{
+    max-width: 200px;
+    width: 100%;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.txtcards4{
+    max-width: 200px;
+    width: 100%;
+   justify-content: space-around;
+   flex-direction: column;
+}
+
+.footer-inner{
+    display: flex;
+    justify-content: space-between;
+}
+
+.glavni{
+    font-size: 22px;
+line-height: 17px;
+font-weight: 600;
+padding-bottom: 10px;
+}
+
+.neglavni{
+    font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+padding-bottom: 10px;
+}
+
+.footer{
+    padding-bottom: 200px;
+}
+
+
